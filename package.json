@@ -10,7 +10,9 @@
       "cross-env": "^5.0.5"
     },
     "keywords": [
-      "drift",
+      "supportbubble",
+      "support",
+      "bubble",
       "gatsby",
       "gatsby-plugin"
     ],
